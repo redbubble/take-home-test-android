@@ -1,0 +1,27 @@
+{
+    "workDetails": {
+      "artist": {
+        "avatarUrl": "https://ih0.redbubble.net/avatar.72134.140x140.jpg",
+        "description": "44 Designs",
+        "id": "1338962",
+        "username": "natalietyler"
+      },
+      "id": "40216895",
+      "imageUrl": "https://ih0.redbubble.net/image.873525749.6895/flat,1000x,075,f.jpg",
+      "safeForWork": true,
+      "shareUrl": "https://www.redbubble.com/shop/ap/40216895?utm_source=rb-native-app&utm_campaign=share-work&utm_medium=other",
+      "title": "Too Hot ",
+      "availableProducts": [
+      {
+        "id": "40216895_grouse-chips_KPJVE",
+        "price": {
+          "amount": 32.83,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.873525757.6895/ra,raglan,x1860,white_red,front-c,330,336,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Baseball ¾ Sleeve T-Shirt"
+      }
+    ]
+    }
+}

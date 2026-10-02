@@ -1,0 +1,306 @@
+{
+  "productDetails": {
+    "id": "15223508_bush-fizzer_5X2YF",
+    "title": "Mustard and Marble Graphic Throw Pillow",
+    "artist": {
+      "avatarUrl": "https://ih0.redbubble.net/avatar.72134.140x140.jpg",
+      "description": "44 Designs",
+      "id": "1338962",
+      "username": "Natalie Tyler"
+    },
+    "featureSet": {
+      "title": "Features",
+      "features": [
+        "Vibrant double-sided print throw pillows to update any room",
+        "Independent designs, custom printed when you order",
+        "Soft and durable 100% spun polyester cover with an optional polyester fill/insert",
+        "Concealed zip opening for a clean look and easy care",
+        "Note: Some designs are not available in all sizes.",
+        "We recommend using inserts/fills that are bigger than the covers to ensure a plump finish"
+      ]
+    },
+    "safeForWork": true,
+    "imageUrl": "https://ih1.redbubble.net/image.622647920.3508/throwpillow,small,1000x-bg,f8f8f8-c,0,200,1000,1000.u2.jpg",
+    "shareUrl": "https://www.redbubble.com/shop/ap/15223508",
+    "availableProducts": [{
+      "id": "15223508_frostie-esky_MUCKM",
+      "price": {
+        "amount": 30.77,
+        "currency": "USD"
+      },
+      "title": "Mini Skirt",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648020.3508/pencil_skirt,x600,front-c,227,0,523,523-bg,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_dodgy-bonnet_6EA4Y",
+      "price": {
+        "amount": 25.25,
+        "currency": "USD"
+      },
+      "title": "Laptop Skin",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647973.3508/pd,x450,macbook_air_13-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_ropeable-gumtree_2U5KG",
+      "price": {
+        "amount": 35.86,
+        "currency": "USD"
+      },
+      "title": "Laptop Sleeve",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647973.3508/ls,13inch,x600-c,90,0,600,600-bg,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_top-jaffle_MHP6F",
+      "price": {
+        "amount": 20.21,
+        "currency": "USD"
+      },
+      "title": "iPad Skin",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648031.3508/mwo,x540,ipad_2_skin-pad,600x600,f8f8f8.u6.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_double-magpie_MNKGF",
+      "price": {
+        "amount": 45.46,
+        "currency": "USD"
+      },
+      "title": "iPad Snap Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648031.3508/mwo,x540,ipad_2_snap-pad,600x600,f8f8f8.u6.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_rough-sultana_62NBT",
+      "price": {
+        "amount": 15.14,
+        "currency": "USD"
+      },
+      "title": "iPhone Skin",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/mwo,x540,iphone_6_skin-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_lovely-dingo_C0UE4",
+      "price": {
+        "amount": 25.25,
+        "currency": "USD"
+      },
+      "title": "iPhone Snap Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,iphone_12_snap,back,a,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_cranky-beetroot_PGM2E",
+      "price": {
+        "amount": 21,
+        "currency": "USD"
+      },
+      "title": "iPhone Soft Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,iphone_12_soft,back,a,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_whinging-rissole_23I0V",
+      "price": {
+        "amount": 30.3,
+        "currency": "USD"
+      },
+      "title": "iPhone Tough Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,iphone_12_tough,back,a,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_wagging-grub_TALA6",
+      "price": {
+        "amount": 35.35,
+        "currency": "USD"
+      },
+      "title": "iPhone Wallet",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647911.3508/wallet,540x,iphone_6s_wallet-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_bush-brolly_NOJ2U",
+      "price": {
+        "amount": 15.14,
+        "currency": "USD"
+      },
+      "title": "Samsung Galaxy Skin",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/mwo,275x,samsung_galaxy_s5_skin-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_bush-magpie_Q464T",
+      "price": {
+        "amount": 25.25,
+        "currency": "USD"
+      },
+      "title": "Samsung Galaxy Snap Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,samsung_galaxy_s20_snap,back,a,x600-pad,600x600,f8f8f8.1u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_furphy-fiddlesticks_B10ML",
+      "price": {
+        "amount": 21,
+        "currency": "USD"
+      },
+      "title": "Samsung Galaxy Soft Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,samsung_galaxy_s20_soft,back,a,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_tassie-wallaroo_S4BK2",
+      "price": {
+        "amount": 30.3,
+        "currency": "USD"
+      },
+      "title": "Samsung Galaxy Tough Case",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647890.3508/icr,samsung_galaxy_s20_tough,back,a,x600-pad,600x600,f8f8f8.1u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_strewn-joey_1G4ZT",
+      "price": {
+        "amount": 20.21,
+        "currency": "USD"
+      },
+      "title": "Art Print",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/aps,504x498,small,transparent-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_outback-mate_5Y5V7",
+      "price": {
+        "amount": 48.48,
+        "currency": "USD"
+      },
+      "title": "Canvas Print",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_googy-veggies_AJ1A3",
+      "price": {
+        "amount": 80.81,
+        "currency": "USD"
+      },
+      "title": "Framed Art Print",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/fp,504x498,black,off_white,box20,s,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_top-dash_0JXQP",
+      "price": {
+        "amount": 58.57,
+        "currency": "USD"
+      },
+      "title": "Metal Print",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/mp,504x516,gloss,f8f8f8,t-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_fair-garage_6Q0TX",
+      "price": {
+        "amount": 6.79,
+        "currency": "USD"
+      },
+      "title": "Photographic Print",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/pp,504x498-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_beaut-flannel_LVTDI",
+      "price": {
+        "amount": 14.32,
+        "currency": "USD"
+      },
+      "title": "Poster",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647939.3508/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_ridgy-crumpet_GDIZR",
+      "price": {
+        "amount": 30.3,
+        "currency": "USD"
+      },
+      "title": "Clock",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648082.3508/clkf,black,black,600x600-bg,f8f8f8.u9.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_country-dill_E5I3N",
+      "price": {
+        "amount": 13.91,
+        "currency": "USD"
+      },
+      "title": "Coasters (Set of 4)",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648093.3508/ur,coaster_pack_4_flatlay,square,600x600.2u9.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_bush-fizzer_5X2YF",
+      "price": {
+        "amount": 21.65,
+        "currency": "USD"
+      },
+      "title": "Throw Pillow",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647920.3508/throwpillow,small,600x-bg,f8f8f8-c,0,120,600,600.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_aggro-clanger_YT4RK",
+      "price": {
+        "amount": 30.3,
+        "currency": "USD"
+      },
+      "title": "Drawstring Bag",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648068.3508/drawstring_bag,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_minty-serviette_PJQVX",
+      "price": {
+        "amount": 20.21,
+        "currency": "USD"
+      },
+      "title": "All Over Print Tote Bag",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647920.3508/tb,840x840,small-c,1,198,600,600-bg,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_wagging-shemozzle_9Q0AD",
+      "price": {
+        "amount": 15.76,
+        "currency": "USD"
+      },
+      "title": "Classic Mug",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647976.3508/mug,standard,x334,right-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_beaut-galah_W3OIY",
+      "price": {
+        "amount": 15.76,
+        "currency": "USD"
+      },
+      "title": "Tall Mug",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647976.3508/mug,tall,x334,right-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_chewy-runners_V33QC",
+      "price": {
+        "amount": 25.25,
+        "currency": "USD"
+      },
+      "title": "Travel Mug",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647971.3508/mug,travel,x600,center-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_sooky-chinwag_440R3",
+      "price": {
+        "amount": 12.12,
+        "currency": "USD"
+      },
+      "title": "Zipper Pouch",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622647973.3508/pr,150x100,600x-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": false
+    }, {
+      "id": "15223508_ripper-brat_RXH2R",
+      "price": {
+        "amount": 20.51,
+        "currency": "USD"
+      },
+      "title": "Hardcover Journal",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648072.3508/hj,496x-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }, {
+      "id": "15223508_whinging-koala_WX3NH",
+      "price": {
+        "amount": 12.62,
+        "currency": "USD"
+      },
+      "title": "Spiral Notebook",
+      "thumbnailUrl": "https://ih1.redbubble.net/image.622648060.3508/sn,x600-pad,600x600,f8f8f8.u2.jpg",
+      "safeForWork": true
+    }]
+  }
+}

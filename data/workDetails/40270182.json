@@ -1,0 +1,37 @@
+{
+  "workDetails": {
+      "artist": {
+        "avatarUrl": "https://ih0.redbubble.net/avatar.72134.140x140.jpg",
+        "description": "44 Designs",
+        "id": "1338962",
+        "username": "natalietyler"
+      },
+      "id": "40270182",
+      "imageUrl": "https://ih0.redbubble.net/image.875746211.0182/flat,1000x,075,f.jpg",
+      "safeForWork": true,
+      "shareUrl": "https://www.redbubble.com/shop/ap/40270182?utm_source=rb-native-app&utm_campaign=share-work&utm_medium=other",
+      "title": "Graphic stones pattern ",
+      "availableProducts": [
+      {
+        "id": "40270182_ripper-rissole_1YYVU",
+        "price": {
+          "amount": 40.6,
+          "currency": "AUD"
+        },
+        "safeForWork": false,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.875746208.0182/gptr,1265x,front,black-c,330,402,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Graphic T-Shirt"
+      },
+      {
+        "id": "40270182_beaut-razoo_6AQD3",
+        "price": {
+          "amount": 40,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.875746210.0182/ctkr,x1862,front,black-c,324,409,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Sleeveless Top"
+      }
+    ]
+  }
+}

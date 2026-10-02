@@ -1,0 +1,117 @@
+{
+    "workDetails": {
+      "artist": {
+        "avatarUrl": "https://ih0.redbubble.net/avatar.72134.140x140.jpg",
+        "description": "44 Designs",
+        "id": "1338962",
+        "username": "natalietyler"
+      },
+      "id": "36233421",
+      "imageUrl": "https://ih0.redbubble.net/image.721404473.3421/flat,1000x,075,f.jpg",
+      "safeForWork": true,
+      "shareUrl": "https://www.redbubble.com/shop/ap/36233421?utm_source=rb-native-app&utm_campaign=share-work&utm_medium=other",
+      "title": "Sleeping Planet ",
+      "availableProducts": [
+        {
+        "id": "36233421_grouse-chips_BHI97",
+        "price": {
+          "amount": 32.83,
+          "currency": "AUD"
+        },
+        "safeForWork": false,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ra,raglan,x1860,white_asphalt,front-c,330,336,600,600-bg,f8f8f8.u3.jpg",
+        "title": "Baseball ¾ Sleeve T-Shirt"
+      },
+      {
+        "id": "36233421_cactus-bizzo_22W0K",
+        "price": {
+          "amount": 23.55,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ssrco,classic_tee,mens,denim_heather,front_alt,square_product,600x600.u3.jpg",
+        "title": "Classic T-Shirt"
+      },
+      {
+        "id": "36233421_ripper-rissole_1YYVU",
+        "price": {
+          "amount": 40.6,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404471.3421/gptr,1265x,front,black-c,330,402,600,600-bg,f8f8f8.u3.jpg",
+        "title": "Graphic T-Shirt"
+      },
+      {
+        "id": "36233421_whinging-magpie_MAO2B",
+        "price": {
+          "amount": 50.01,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ssrco,lightweight_hoodie,mens,denim_lightweight_hoodie,front,square_product,x600-bg,f8f8f8.2u3.jpg",
+        "title": "Lightweight Hoodie"
+      },
+      {
+        "id": "36233421_aggro-emu_CNEDC",
+        "price": {
+          "amount": 41.03,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ssrco,lightweight_sweatshirt,mens,denim_blue_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.u3.jpg",
+        "title": "Lightweight Sweatshirt"
+      },
+      {
+        "id": "36233421_outback-brolly_Q33G9",
+        "price": {
+          "amount": 29.74,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ra,longsleeve,x1860,322e3f:696a94a5d4,front-c,312,330,600,600-bg,f8f8f8.u3.jpg",
+        "title": "Long Sleeve T-Shirt"
+      },
+      {
+        "id": "36233421_top-grub_RY32L",
+        "price": {
+          "amount": 37.93,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404513.3421/ssrco,long_t_shirt,mens,fafafa:ca443f4786,front,square_product,x600-bg,f8f8f8.1u4.jpg",
+        "title": "Long T-Shirt"
+      },
+      {
+        "id": "36233421_sooky-sanga_LKP5W",
+        "price": {
+          "amount": 50.25,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404513.3421/ssrco,mens_premium_t_shirt,mens,heather_grey,front,square_product,x600-bg,f8f8f8.1u4.jpg",
+        "title": "Premium T-Shirt"
+      },
+      {
+        "id": "36233421_fair-cuppa_G3IS7",
+        "price": {
+          "amount": 60,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ssrco,mhoodie,mens,charcoal_heather,front,square_product,x600-bg,f8f8f8.1u3.jpg",
+        "title": "Pullover Hoodie"
+      },
+      {
+        "id": "36233421_jumping-boot_4UUCT",
+        "price": {
+          "amount": 50.67,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.721404477.3421/ra,sweatshirt,x1800,charcoal_heather,front-c,281,327,600,600-bg,f8f8f8.u3.jpg",
+        "title": "Pullover Sweatshirt"
+      }
+      ]
+    }
+}

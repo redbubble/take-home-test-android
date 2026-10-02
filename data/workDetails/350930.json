@@ -1,0 +1,117 @@
+{
+  "workDetails": {
+      "id": "350930",
+      "title": "fox ",
+      "artist": {
+        "avatarUrl": "https://ih0.redbubble.net/avatar.72134.140x140.jpg",
+        "description": "44 Designs",
+        "id": "1338962",
+        "username": "natalietyler"
+      },
+      "imageUrl": "https://ih0.redbubble.net/image.3460655.0930/flat,1000x,075,f.jpg",
+      "safeForWork": true,
+      "shareUrl": "https://www.redbubble.com/shop/ap/350930?utm_source=rb-native-app&utm_campaign=share-work&utm_medium=other",
+      "availableProducts": [
+        {
+        "id": "350930_grouse-chips_BHI97",
+        "price": {
+          "amount": 35.57,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ra,raglan,x1860,white_asphalt,front-c,330,336,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Baseball ¾ Sleeve T-Shirt"
+      },
+      {
+        "id": "350930_cactus-bizzo_9V5H1",
+        "price": {
+          "amount": 23.55,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,classic_tee,mens,403c32:92341a482f,front_alt,square_product,600x600.u2.jpg",
+        "title": "Classic T-Shirt"
+      },
+      {
+        "id": "350930_whinging-magpie_2FUSB",
+        "price": {
+          "amount": 50.01,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,lightweight_hoodie,mens,charcoal_lightweight_hoodie,front,square_product,x600-bg,f8f8f8.2u2.jpg",
+        "title": "Lightweight Hoodie"
+      },
+      {
+        "id": "350930_aggro-emu_T2CQ7",
+        "price": {
+          "amount": 41.03,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,lightweight_sweatshirt,mens,charcoal_grey_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.u2.jpg",
+        "title": "Lightweight Sweatshirt"
+      },
+      {
+        "id": "350930_outback-brolly_Q33G9",
+        "price": {
+          "amount": 32.22,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ra,longsleeve,x1860,322e3f:696a94a5d4,front-c,312,330,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Long Sleeve T-Shirt"
+      },
+      {
+        "id": "350930_fair-cuppa_VY21C",
+        "price": {
+          "amount": 65,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,mhoodie,mens,322e3f:696a94a5d4,front,square_product,x600-bg,f8f8f8.1u2.jpg",
+        "title": "Pullover Hoodie"
+      },
+      {
+        "id": "350930_jumping-boot_6W81E",
+        "price": {
+          "amount": 54.88,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ra,sweatshirt,x1800,322e3f:696a94a5d4,front-c,281,327,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Pullover Sweatshirt"
+      },
+      {
+        "id": "350930_shouty-pav_PQIVH",
+        "price": {
+          "amount": 32.23,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,racerback,womens,322e3f:696a94a5d4,front,square_product,x600-bg,f8f8f8.1u2.jpg",
+        "title": "Racerback Tank Top"
+      },
+      {
+        "id": "350930_cluey-kookaburra_UHLBD",
+        "price": {
+          "amount": 25.51,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ssrco,slim_fit_t_shirt,mens,403c32:92341a482f,front,square_product,600x600.u2.jpg",
+        "title": "Essential T-Shirt"
+      },
+      {
+        "id": "350930_tall-larrikin_G1RPS",
+        "price": {
+          "amount": 33.89,
+          "currency": "AUD"
+        },
+        "safeForWork": true,
+        "thumbnailUrl": "https://ih1.redbubble.net/image.3460655.0930/ra,tank,x1860,322e3f:696a94a5d4,front-c,288,321,600,600-bg,f8f8f8.u2.jpg",
+        "title": "Tank Top"
+      }
+      ]
+    }
+}
