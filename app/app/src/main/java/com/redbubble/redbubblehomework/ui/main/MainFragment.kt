@@ -58,7 +58,7 @@ class MainFragment : Fragment() {
     private fun fetchData() {
         GlobalScope.launch(Dispatchers.IO) {
             try {
-                val data = URL("https://take-home-test.herokuapp.com/bff/explore.json").readText()
+                val data = URL("https://raw.githubusercontent.com/redbubble/take-home-test-android/refs/heads/main/data/explore.json").readText()
                 val items = parseResponse(data)
                 GlobalScope.launch(Dispatchers.Main) ui@{
                     binding.rvHome.adapter =
